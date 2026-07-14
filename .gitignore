@@ -9,3 +9,6 @@ result-*
 **/.nixos-test-history
 
 .idea
+
+.env
+credentials.json
