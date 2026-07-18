@@ -13,3 +13,6 @@ result-*
 .env
 credentials.json
 token.json
+
+# ignora pasta inteira
+curriculos
