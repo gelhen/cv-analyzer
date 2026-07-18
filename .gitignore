@@ -12,3 +12,4 @@ result-*
 
 .env
 credentials.json
+token.json
