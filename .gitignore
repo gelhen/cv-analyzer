@@ -16,3 +16,6 @@ token.json
 
 # ignora pasta inteira
 curriculos
+
+# database
+db*
