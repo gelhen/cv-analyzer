@@ -10,5 +10,7 @@ dependencies = [
     "google-auth-oauthlib>=1.4.0",
     "pydantic>=2.13.4",
     "requests>=2.34.2",
+    "streamlit>=1.59.2",
+    "streamlit-aggrid>=1.2.1.post2",
     "tinydb>=4.8.2",
 ]
